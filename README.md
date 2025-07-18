@@ -2,7 +2,7 @@
 I am an enthusiastic final-year Computer Science and Engineering student. With a solid foundation in Java, C, HTML, CSS, JavaScript and a bit of SQL, I am carving my path towards becoming a skilled Full Stack Developer. I excel in subjects like Networking and Database Management Systems, and I am currently expanding my frontend expertise by learning React.js.
 
 
-Beyond my technical pursuits, I am passionate about singing and find inspiration in melodies just as much as in code. My curiosity extends far beyond technology—I am deeply interested in the mysteries of the cosmos and enjoy exploring new research ideas. Driven by a love of learning and a genuine enthusiasm for discovery, I am eager to contribute to innovative projects that combine creativity and technology, while always keeping an ear open to new challenges and a mind open to the wonders of the universe..
+Beyond my technical pursuits, I love singing and find inspiration in melodies just as much as in code. My curiosity extends far beyond technology—I am deeply interested in the mysteries of the cosmos and enjoy exploring new research ideas. Driven by a love of learning and a genuine enthusiasm for discovery, I am eager to contribute to innovative projects that combine creativity and technology, while always keeping an ear open to new challenges and a mind open to the wonders of the universe..
 
 
 - 🌱 I’m currently learning **Web development and React JS**
