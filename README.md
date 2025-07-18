@@ -4,7 +4,6 @@ I am an enthusiastic final-year Computer Science and Engineering student. With a
 
 Beyond my technical pursuits, I am passionate about singing and find inspiration in melodies just as much as in code. My curiosity extends far beyond technology—I am deeply interested in the mysteries of the cosmos and enjoy exploring new research ideas. Driven by a love of learning and a genuine enthusiasm for discovery, I am eager to contribute to innovative projects that combine creativity and technology, while always keeping an ear open to new challenges and a mind open to the wonders of the universe..
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=moumonibera06&label=Profile%20views&color=0e75b6&style=flat" alt="moumonibera06" /> </p>
 
 - 🌱 I’m currently learning **Web development and React JS**
 
